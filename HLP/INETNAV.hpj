@@ -1,0 +1,243 @@
+;* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+; Help Project File for INETNAV 
+;
+;  You may edit this file.
+;
+;  It's probably best not to change the CONTENTS= value 
+;  unless you rename the IDH_CONTENTS context string in 
+;  the INETNAV.DOC file.
+;
+
+[OPTIONS]
+; The optional ROOT= entry sets the working directory for the Help Compiler 
+; ROOT=C:\PROJECT
+
+; The optional BMROOT= entry sets forth the directories which the
+; help compiler will search for bitmaps used in the Help system.
+;
+;BMROOT=C:\APPS\INTERNET\INETNAV\HLP
+
+; The CONTENTS= tells the help Engine which topic contains the contents 
+
+; Title is Displayed in the Title Bar of WINHELP.EXE
+TITLE=Internet Navigator Help
+
+; The BUILD= setting allows complex Help systems which require
+; different versions to use the same source.  This is similar to #ifdef's 
+; in the 'C' language.  Everything to the right of the = sign in the 
+; BUILD= statement is an EXPRESSION.  See the Help compiler 
+; documentation for more information about build expressions.
+
+; The Warning Level is used by the Help Compiler (HC.EXE)
+; WARNING=1  - Only the most severe warnings are reported
+; WARNING=2  - Intermediate Level of warnings
+; WARNING=3  - Most stringent error reporting
+
+; The Compress option is used by the Help Compiler to make 
+; smaller, faster loading .HLP files.  However, using compression
+; increases Compile times.
+; COMPRESS=YES, ON, OFF, NO, TRUE or FALSE
+
+
+CONTENTS=main_contents
+
+CITATION=From the Help file for WnDBSoft Internet Navigator, ¸ 1996 by Brian Hart
+COPYRIGHT=Copyright ¸ 1996 by WnDBSoft International.
+ICON=C:\APPS\INTERNET\INETNAV\RES\HELPBOOK.ICO
+COMPRESS=NONE
+OLDKEYPHRASE=NO
+REPORT=YES
+OPTCDROM=0
+BMROOT=BITMAPS,SHG,D:\APPS\INTERNET\INETNAV\HLP 
+ERRORLOG=D:\APPS\INTERNET\INETNAV\HLP\INETNAV.err
+[BUILDTAGS]
+; The Build Tags section specifies to the Help Compiler the names
+; of all the valid build tags used in this Help project.  The [BUILDTAGS]
+; section is optional.
+
+
+[CONFIG]
+; The config section allows you to define some macros which will be
+; executed when the help system is first executed.
+;
+; The next line gives you browse buttons:
+;
+
+;
+; To create a glossary button which displays a list of defined terms
+; in a secondary window, remove the semi colon at the start of the next
+; line and do the same with the Glossary window in the [WINDOWS] section
+;CreateButton("Glossary_Btn","&Glossary","JI(`bubble.hlp>Gloss',`IDH_Glossary')")
+;
+;
+; The next line creates a button which jumps to the glossary topic.
+;
+
+
+
+CreateButton("btn_glossary","&Glossary","JI(`inetnav.hlp>glossary',`glossary_contents')")
+BrowseButtons()
+CreateButton("btn_help","&Help","HelpOn()")
+[FILES]
+; The files section is where you specify to the Help Compiler which
+; Rich Text Format (.RTF) (your help source) files will be used in the
+; Help system.  RoboHELP generates and maintains the main .RTF 
+; file for your Help System.  If you desire to have multiple .RTF files,
+; simply add the additonal names to the [FILES] section.
+
+INETNAV.RTF
+GLOSSARY.RTF
+DIALOGS.RTF
+AREAS.RTF
+PROMPTS.RTF
+COMMANDS.RTF
+[ALIAS]
+; The Alias  section allows you to set up aliases for context strings 
+; in your help system.  
+; 
+; Brief example:
+; 
+;    IDH_UserID = IDH_RoboGenerated_Id
+;    IDH_WMP_MenuID = IDH_RoboGenerated_Id
+;    IDH_Any = IDH_AnyOther
+
+
+
+
+
+
+HIDR_MAINFRAME = main_contents
+HIDD_ABOUTBOX = HID_APP_ABOUT
+HID_HT_SIZE = HID_SC_SIZE
+HID_HT_HSCROLL = scrollbars
+HID_HT_VSCROLL = scrollbars
+HID_HT_MINBUTTON = HID_SC_MINIMIZE
+HID_HT_MAXBUTTON = HID_SC_MAXIMIZE
+AFX_HIDP_INVALID_FILENAME = AFX_HIDP_default
+AFX_HIDP_FAILED_TO_SAVE_DOC = AFX_HIDP_default
+AFX_HIDP_FAILED_TO_CREATE_DOC = AFX_HIDP_default
+AFX_HIDP_FILE_TOO_LARGE = AFX_HIDP_default
+AFX_HIDP_FAILED_TO_START_PRINT = AFX_HIDP_default
+AFX_HIDP_INTERNAL_FAILURE = AFX_HIDP_default
+AFX_HIDP_COMMAND_FAILURE = AFX_HIDP_default
+AFX_HIDP_PARSE_INT = AFX_HIDP_default
+AFX_HIDP_PARSE_REAL = AFX_HIDP_default
+AFX_HIDP_PARSE_INT_RANGE = AFX_HIDP_default
+AFX_HIDP_PARSE_REAL_RANGE = AFX_HIDP_default
+AFX_HIDP_PARSE_STRING_SIZE = AFX_HIDP_default
+AFX_HIDP_FAILED_INVALID_FORMAT = AFX_HIDP_default
+AFX_HIDP_FAILED_INVALID_PATH = AFX_HIDP_default
+AFX_HIDP_FAILED_DISK_FULL = AFX_HIDP_default
+AFX_HIDP_FAILED_ACCESS_READ = AFX_HIDP_default
+AFX_HIDP_FAILED_ACCESS_WRITE = AFX_HIDP_default
+AFX_HIDP_FAILED_IO_ERROR_READ = AFX_HIDP_default
+AFX_HIDP_FAILED_IO_ERROR_WRITE = AFX_HIDP_default
+AFX_HIDP_STATIC_OBJECT = AFX_HIDP_default
+AFX_HIDP_FAILED_TO_CONNECT = AFX_HIDP_default
+AFX_HIDP_SERVER_BUSY = AFX_HIDP_default
+AFX_HIDP_BAD_VERB = AFX_HIDP_default
+AFX_HIDP_FAILED_MEMORY_ALLOC = AFX_HIDP_default
+AFX_HIDP_FAILED_TO_NOTIFY = AFX_HIDP_default
+AFX_HIDP_FAILED_TO_LAUNCH = AFX_HIDP_default
+AFX_HIDP_ASK_TO_UPDATE = AFX_HIDP_default
+AFX_HIDP_FAILED_TO_UPDATE = AFX_HIDP_default
+AFX_HIDP_FAILED_TO_REGISTER = AFX_HIDP_default
+AFX_HIDP_FAILED_TO_AUTO_REGISTER = AFX_HIDP_default
+AFX_HIDD_NEWTYPEDLG = HIDD_DIALOG_DEFAULT_HELP
+AFX_HIDD_COLOR = HIDD_DIALOG_DEFAULT_HELP
+HIDW_MAIL_COMPOSE_BAR = HID_HT_NOWHERE
+HIDW_NEWS_COMPOSE_DIALOG_BAR = HID_HT_NOWHERE
+HIDW_EMAIL_COMMAND_BAR = HID_HT_NOWHERE
+HIDW_NNTPARTICLE_COMMAND_BAR = HID_HT_NOWHERE
+HIDD_TIP_OF_THE_DAY = HIDD_DIALOG_DEFAULT_HELP
+HIDD_GOPHER_SEARCH = HIDD_DIALOG_DEFAULT_HELP
+HIDD_IRC_SEND_PRIVMSG = HIDD_DIALOG_DEFAULT_HELP
+HIDD_IRC_SEND_COMMAND = HIDD_DIALOG_DEFAULT_HELP
+HIDD_IRC_JOIN_CHANNEL = HIDD_DIALOG_DEFAULT_HELP
+HIDD_IRC_CONNECT = HIDD_DIALOG_DEFAULT_HELP
+HIDD_IRC_CHANGE_NICKNAME = HIDD_DIALOG_DEFAULT_HELP
+HIDD_FTP_OPEN_WARNING = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAI_SETUP_1 = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAI_SETUP_2 = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAI_SETUP_3 = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAI_SETUP_4 = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAI_SETUP_5 = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAI_SETUP_6 = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAI_SETUP_7 = HIDD_DIALOG_DEFAULT_HELP
+HIDD_APP_GENERAL_PREFS = HIDD_DIALOG_DEFAULT_HELP
+HIDD_GOPHER_SITE_PROPERTIES = HIDD_DIALOG_DEFAULT_HELP
+HIDD_NEWSGROUPS_SETUP = HIDD_DIALOG_DEFAULT_HELP
+HIDD_EMAIL_SETTINGS = HIDD_DIALOG_DEFAULT_HELP
+HIDD_ADD_NEWSGROUP = HIDD_DIALOG_DEFAULT_HELP
+HIDD_ARTSELTYPE_FORM = HID_HT_NOWHERE
+HIDD_INTERNET_FINGER_PREFS = HIDD_DIALOG_DEFAULT_HELP
+HIDD_ADDRESS_BOOK = HIDD_DIALOG_DEFAULT_HELP
+HIDD_ADD_ADDRESS = HIDD_DIALOG_DEFAULT_HELP
+HIDD_ARTICLE_AGE = HIDD_DIALOG_DEFAULT_HELP
+HIDD_INETNAV_WELCOME = main_contents
+HIDD_FTP_PROPS_GENERAL = HIDD_DIALOG_DEFAULT_HELP
+HIDD_FTP_USER_DIR = HIDD_DIALOG_DEFAULT_HELP
+HIDD_FLASHCONNECT_BEGIN = HIDD_DIALOG_DEFAULT_HELP
+HIDD_FLASHCONNECT_END = HIDD_DIALOG_DEFAULT_HELP
+HIDD_NEWS_COMPOSE_DIALOG_BAR = HID_HT_NOWHERE
+HIDD_SET_TABSTOPS = HIDD_DIALOG_DEFAULT_HELP
+HIDD_PAGE_SETUP = HIDD_DIALOG_DEFAULT_HELP
+HIDD_FTP_CONNECT = HIDD_DIALOG_DEFAULT_HELP
+HIDD_FTP_WELCOME = HIDD_DIALOG_DEFAULT_HELP
+HIDD_GOPHER_CONNECT = HIDD_DIALOG_DEFAULT_HELP
+HIDD_FTP_AOL_DIRECTORY = HIDD_DIALOG_DEFAULT_HELP
+HIDD_PERCENT = HIDD_DIALOG_DEFAULT_HELP
+HIDD_NEW_MAILBOX = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAIL_COMPOSE_DIALOG_BAR = HID_HT_NOWHERE
+HIDD_NNTPARTICLE_DIALOG_BAR = HID_HT_NOWHERE
+HIDD_INTERNET_WHOIS_PREFS = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAIL_SIGNATURE = HIDD_DIALOG_DEFAULT_HELP
+HIDD_MAIL_LOGON = HIDD_DIALOG_DEFAULT_HELP
+HIDP_PATH_NOT_FOUND = HIDP_FILE_NOT_FOUND
+[MAP]
+; 
+; The Map Section is where the C language #defines are translated 
+; or mapped into the Help System Context Strings.  Standard C syntax
+; can be employed.  The .HH file is meant to be #include(d) into your 
+; Windows application source code.
+; 
+
+
+#include <C:\MSVC\MFC\INCLUDE\AFXHELP.HM>
+#include <INETNAV.HM>
+[BITMAPS]
+; 
+; The [BITMAPS] section is where you list any Bitmaps which have
+; been placed by reference in the Help System.  See the Help compiler
+; documentation for more information about placing bitmaps.
+; 
+; The [BITMAPS] section is not really required under Windows 3.1,
+; with the advent of the BMROOT item in the [OPTIONS] section.
+; 
+;FOO1.BMP
+;FOO2.BMP
+;C:\FOO\FOO3.BMP
+;And So On
+
+[WINDOWS]
+; Windows Help can display help in one of 5 secondary windows.
+; Before using a secondary window, the window must be defined
+; in this section:
+; 
+;Gloss = "Glossary",(100,100,350,350),0,(255,255,255),(255,255,255)
+
+glossary="Glossary",(352,53,639,906),0,(255,255,255),(192,192,192)
+main=,(0,0,1023,1023),1,(255,255,255),(192,192,192),0
+[BAGGAGE]
+; 
+; The Baggage section allows the user to include files which
+; will be placed in the internal file system for WinHelp.  
+; Using files from Baggage is a little faster for CDROM, since
+; the CDROM drive table does not need to be read from disk.
+;
+; Baggage files are referred to as regular bitmaps, except
+; that you prefix the filename with '!'.
+;
+;    For Instance:
+;       {bmc !bitmap.bmp} instead of {bmc bitmap.bmp}
+;

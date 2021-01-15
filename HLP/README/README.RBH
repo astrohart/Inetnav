@@ -1,0 +1,23 @@
+[Project]
+Help Compiler=HC31.EXE
+Remove Unused=1
+HasGlossary=0
+Automatic Map Files=1
+Version=512
+ConvertedFromV1=1
+Extra Language=0
+
+[File Properties]
+HasProperties=1
+BrowseType=1
+AutoMapFile=1
+StartingWith=0
+IncrementBy=0
+NextTopicNumber=0
+AutoFixRTF=0
+StartingNumber=0
+BrowseString=README:0
+DefaultBuildTag=
+
+[.RBH]
+AutoFixRTF=0

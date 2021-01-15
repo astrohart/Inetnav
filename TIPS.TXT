@@ -1,0 +1,25 @@
+Welcome to Internet Navigator for Windows!  This window will show you a tip about using Internet Navigator, the Internet, or Windows each time you start this program.\r\n\r\nTo turn this feature off, clear the checkbox below, then press OK.
+
+To use areas of Internet Navigator and Internet services, select them from the Places menu, the toolbar, or the Main Menu window.
+
+You can obtain information on a person's e-mail address (if it's available) using a service known as Finger.  To use Finger, click the 'Internet Users Information' button on the Main Menu.
+
+You can search for Internet Domain Names (i.e. bigcorp.com, 4-h.org etc.) using a service known as Whois, brought to you by the InterNIC.  To use Whois, click the 'InterNIC Site Information' button on the Main Menu.
+
+You can download files to your computer from the Internet using Internet Navigator's powerful FTP Browser area.  To use FTP, click the 'FTP Browser'
+button on the Main Menu.
+
+You can upload files to servers on the Internet using Internet Navigator's powerful FTP Browser area.  You can also use the area to manage Web site files accessible by FTP.  To use FTP, click the 'FTP Browser' button on the Main Menu.
+
+You can print out any and all textual information received by Internet Navigator.  To print the text or file currently being displayed, pull down the File menu and look for the 'Print' item.
+
+If Internet Navigator takes a long time to connect to a server, you should press CTRL+ALT+DEL twice to restart your computer.
+
+You can press F1 anywhere in Internet Navigator and get instant, at-your-fingertips help information on how to use the currently displayed screen item or menu command.
+
+To get help on a specific part of Internet Navigator, click the 'What's This?' button on the Toolbar above, then click a menu command, area of the screen, or area window for help on what you clicked.
+
+Need more help than can be found in the Help files?  Click the 'Help & Information' button on the Main Menu and then click the 'Ask the Staff' and then the 'Technical Support' buttons to send a question directly to the author of this program.
+
+Have a suggestion or feedback for the author?  Go to the 'Help & Information' area (by clicking the appropriate button on the Main Menu), click 'Ask the Staff' then click either the 'Suggestion Box' or 'Feedback Box' buttons in the 'Ask the Staff' window.  You will then be guided through sending your suggestion or feedback to the author.
+

@@ -1,0 +1,383 @@
+
+
+ftp://sipb.mit.edu/pub/whois/whois-servers.list
+
+List of Internet whois servers, 9 July 1996 (Version 4.1)
+
+This list was collected and compiled by Matt Power of M.I.T.
+
+Questions or comments about this list should be sent to the address:
+
+    mhpower@mit.edu
+
+
+Preferred server name              Associated institution
+---------------------------------------------------------------------
+whois.pacbell.com                  Pacific Bell C=US
+whois.sunquest.com                 Sunquest Information Systems C=US
+
+whois.berkeley.edu                 University of California at Berkeley C=US
+www.binghamton.edu                 State University of New York at Binghamton C=US
+finger.caltech.edu                 California Institute of Technology C=US
+csufresno.edu                      California State University - Fresno C=US
+csuhayward.edu                     California State University - Hayward C=US
+csus.edu                           California State University - Sacramento C=US
+whois.cwru.edu                     Case 
+Western Reserve University C=US
+cc.fsu.edu                         Florida State University C=US
+gettysburg.edu                     Gettysburg College C=US
+gmu.edu                            George Mason University C=US
+whois.dfci.harvard.edu             Dana-Farber Cancer Institute C=US
+hmc.edu                            Harvey Mudd College C=US
+indiana.edu                        Indiana University C=US
+whois.messiah.edu                  Messiah College C=US
+whois.rsmas.miami.edu              University of Miami, Rosentiel School of Marine and Atmospheric Sciences C=US
+mit.edu                            Massachusetts Institute of Technology C=US
+directory.msstate.edu              Mississippi State University C=US
+vax2.winona.msus.edu               Minnesota State University - Winona C=US
+info.nau.edu                       Northern Arizona University C=US
+whois.ncsu.edu                     North Carolina State University C=US
+nd.edu                             University of Notre Dame C=US
+earth.njit.edu     
+                New Jersey Institute of Technology C=US
+vm1.nodak.edu                      North Dakota State University C=US
+austin.onu.edu                     Ohio Northern University C=US
+ph.orst.edu                        Oregon State University C=US
+osu.edu                            Ohio State University C=US
+whois.oxy.edu                      Occidental College C=US
+info.psu.edu                       Pennsylvania State University C=US
+whois.cc.rochester.edu             University of Rochester C=US
+whitepages.rutgers.edu             Rutgers University C=US
+whois.sdsu.edu                     San Diego State University C=US
+stanford.edu                       Stanford University C=US
+camis.stanford.edu                 Stanford University C=US
+whois.slac.stanford.edu            Stanford Linear Accelerator Center C=US
+stjohns.edu                        St. John's University C=US
+sunysb.edu                         State University of New York, Stony Brook C=US
+whois.bcm.tmc.edu                  Baylor College
+ of Medicine C=US
+whois.ubalt.edu                    University of Baltimore C=US
+directory.ucdavis.edu              University of California at Davis C=US
+uchicago.edu                       University of Chicago C=US
+ucsd.edu                           University of California at San Diego C=US
+weber.ucsd.edu                     University of California at San Diego, Division of Social Sciences C=US
+cgl.ucsf.edu                       University of California at San Francisco, School of Pharmacy C=US
+whois.uh.edu                       University of Houston C=US
+whois.umass.edu                    University of Massachusetts at Amherst C=US
+lookup.umd.edu                     University of Maryland C=US
+umn.edu                            University of Minnesota C=US
+ns.unl.edu                         University of Nebraska at Lincoln C=US
+whois.upenn.edu                    University of Pennsylvania C=US
+x500.utexas.edu                    University of Texas at Austin C=US
+netlib2.cs.utk.edu                 na-ne
+t (linear algebra on computers) C=US
+whois.virginia.edu                 University of Virginia C=US
+whois.wfu.edu                      Wake Forest University C=US
+wisc.edu                           University of Wisconsin C=US
+wpi.wpi.edu                        Worcester Polytechnic Institute C=US
+ibc.wustl.edu                      Washington University C=US
+
+vm1.hqadmin.doe.gov                U.S. Department of Energy Headquarters C=US
+wp.doe.gov                         U.S. Department of Energy C=US
+llnl.gov                           Lawrence Livermore National Laboratory C=US
+x500.arc.nasa.gov                  NASA Ames Research Center C=US
+x500.gsfc.nasa.gov                 NASA Goddard Space Flight Center C=US
+larc.nasa.gov                      NASA Langley Research Center C=US
+wp.nersc.gov                       National Energy Research Supercomputer Center C=US
+seda.sandia.gov                    Sandia National Laboratories C=US
+
+whois.nic.ddn.mil                  DoD Network Information Center (Departm
+ent of Defense and Military only) C=US
+whois.nrl.navy.mil                 Naval Research Laboratory C=US
+
+wp.es.net                          Energy Sciences Network C=US
+ds.internic.net                    Network Solutions, Inc. (non-MILNET/non-POC) C=US
+whois.internic.net                 Network Solutions, Inc. C=US
+whois.lac.net                      Latin America & Caribbean Whois Server C=EC
+whois.ripe.net                     Reseaux IP Europeens C=NL
+
+whois.morris.org                   Morris Automated Information Network C=US
+
+whois.risc.uni-linz.ac.at          Research Institute for Symbolic Computation, University of Linz C=AT
+archie.au                          Australian Academic and Research Network C=AU
+whois.adelaide.edu.au              University of Adelaide C=AU
+whois.monash.edu.au                Monash University C=AU
+uwa.edu.au                         University of Western Australia C=AU
+sserve.cc.adfa.oz.au               University College, Australian Defense Force Academy C=AU
+whois.kuleuven.
+ac.be               Katholieke Universiteit Leuven C=BE
+whois.belnet.be                    Belgian National Research Network C=BE
+whois.camosun.bc.ca                Camosun College, Victoria, B.C. C=CA
+whois.queensu.ca                   Queen's University, Kingston, Canada C=CA
+ac.nsac.ns.ca                      Nova Scotia Agricultural College C=CA
+whois.unb.ca                       University of New Brunswick C=CA
+panda1.uottawa.ca                  University of Ottawa C=CA
+dvinci.usask.ca                    University of Saskatchewan, Engineering C=CA
+whois.usask.ca                     University of Saskatchewan C=CA
+phys.uvic.ca                       University of Victoria, Physics & Astronomy C=CA
+whois.uwo.ca                       University of Western Ontario C=CA
+whois.nic.ch                       SWITCH Swiss Academic and Research Network C=CH
+whois.ci.ucr.ac.cr                 University of Costa Rica Computer Center C=CR
+whois.cuni.cz                      Charles University, Prague C=CZ
+whois.mff.c
+uni.cz                  Charles University, Faculty of Mathematics and Physics C=CZ
+whois.vutbr.cz                     Technical University of Brno C=CZ
+whois.fh-koeln.de                  Fachhochschule Koeln C=DE
+whois.fzi.de                       Forschungszentrum Informatik C=DE
+hermes.informatik.htw-zittau.de    HTW Zittau/Goerlitz Elektrotechnik/Informatik C=DE
+whois.th-darmstadt.de              Darmstadt University of Technology C=DE
+whois.tu-chemnitz.de               Technische Universitaet Chemnitz C=DE
+whois.uni-regensburg.de            Universitaet Regensburg C=DE
+whois.uni-c.dk                     Danish Computing Centre for Research and Education C=DK
+whois.eunet.es                     EUnet, Goya, Spain C=ES
+whois.dit.upm.es                   Tech. Univ. Madrid, Telecommunications Highschool C=ES
+cs.hut.fi                          Helsinki University of Technology C=FI
+oulu.fi                            Oulu University C=FI
+vtt.fi                             Technical Research Centre of Finland C
+=FI
+whois.univ-lille1.fr               University of Sciences and Technologies of Lille - France C=FR
+isgate.is                          Association of Research Networks in Iceland C=IS
+dsa.nis.garr.it                    GARR-NIS c/o CNR-CNUCE C=IT
+whois.nis.garr.it                  GARR-NIS c/o CNR-CNUCE C=IT
+whois-server.l.chiba-u.ac.jp       Chiba University C=JP
+whois.cc.keio.ac.jp                Keio University C=JP
+whois.cc.uec.ac.jp                 University of Electro-Communications C=JP
+whois.nic.ad.jp                    Japan Network Information Center C=JP
+whois.nic.li                       SWITCH Swiss Academic and Research Network C=LI
+whois.canterbury.ac.nz             University of Canterbury C=NZ
+directory.vuw.ac.nz                Victoria University, Wellington C=NZ
+waikato.ac.nz                      Waikato University C=NZ
+whois.elka.pw.edu.pl               Faculty of Electronic Engineering, Warsaw University of Technology C=PL
+whois.ia.pw.edu.pl                 Institute of Automatic Contr
+ol, Warsaw University of Technology C=PL
+chalmers.se                        Chalmers University of Technology C=SE
+kth.se                             Royal Institute of Technology C=SE
+sics.se                            Swedish Institute of Computer Science C=SE
+whois.sunet.se                     SUNET (Swedish University Network) C=SE
+whois.uakom.sk                     SANET (WAN of Slovak academic institutions) C=SK
+src.doc.ic.ac.uk                   Imperial College C=GB
+whois.lut.ac.uk                    Loughborough University C=GB
+whois.state.ct.us                  Department of Administrative Services, State of Connecticut C=US
+info.cnri.reston.va.us             Corporation for National Research Initiatives, Knowbot interface C=US
+whois.und.ac.za                    University of Natal (Durban) C=ZA
+
+--------------------------------------------------------------------------------
+
+"Documentation", and other comments...
+
+
+Redistribution
+--------------
+If you redistribute this list, or excerpt a significa
+nt number of
+entries from it, be sure to also pass along the original anonymous-FTP
+location, and request that updates be sent to my e-mail address, as
+specified at the top of this file. This will allow users to obtain
+updated versions at a later time, and will help ensure that I get the
+information I need to do the updating.
+
+Also, keep in mind that accessing a whois server requires a direct
+connection to the Internet. In general, sites that have access to the
+Internet via tcp/whois will also have access to the Internet via
+tcp/ftp, and will thus be able to obtain this file directly. Making
+the file available via a mail-based server is therefore largely
+unnecessary.
+
+
+Updates
+-------
+I am interested in any corrections to the above listing, and in
+reports of other whois servers. Please send them via e-mail to the
+address listed at the top of this file. Unless the maintainer of the
+server has already announced his whois service publicly, I will
+attempt to contact the postmaster or system maintainer prior to
+in
+cluding a new entry.
+
+
+Scope
+-----
+Whois servers, at least by my definition, provide directory
+information in response to TCP queries on port 43, in a manner roughly
+analogous to the DDN NIC whois service described in RFC 954. I realize
+that many sites instead provide this directory service via the finger
+protocol, or accept queries by mail for directory information.
+Although I'd be happy to receive reports of these, the scope of this
+particular listing is limited to the TCP whois service.
+
+There are a few hosts that accept tcp/whois connections, but respond
+with information identical to that given by a standard finger server.
+Since I don't consider this a directory service, I have been omitting
+these hosts.
+
+
+Unlisted servers
+----------------
+I know of some other whois servers that aren't listed above (at their
+maintainers' requests), even though they allow access to at least a
+small amount of directory information. Currently, this includes
+twenty-two in North America, six in Europe, and one in Asia. Typical
+reasons include: service is about to be shut down, service is still
+being developed and will be announced later, or another server
+provides the same data in a better supported manner.
+
+
+Server names
+------------ 
+There are currently three popular naming conventions for whois
+servers. The most common practice is to put whois service on a host
+as far up as possible in the organization's domain hierarchy. For
+example, the highest-level domain name associated with M.I.T. is
+MIT.EDU, and M.I.T.'s whois service is operated on the host named
+mit.edu.
+
+Another common practice is to choose 'whois' or 'wp' as the first part
+of the domain name ('wp' stands for "White Pages"). This would be the
+case if M.I.T.'s whois service were on a host named whois.mit.edu or
+wp.mit.edu. In these cases, the listed name is often an alias, not the
+host's canonical name. In selecting the name to be listed, I've given
+preference to aliases starting with whois or wp.
+
+I personally prefer the first-mentioned convention, since it results
+in
+ shorter command lines, and ones I believe are less confusing to
+beginning Internet users. In particular, the top-level host often
+supports organization-wide mail service, and thus the same host name
+can be used for whois queries and for e-mail.
+
+
+Usage
+-----
+The most common access approach involves separately querying each
+server of interest, via a direct tcp/whois connection. However, there
+are currently a number of active projects concerned with improved
+interfaces to these servers, either by more intelligent client
+software, or by standardization of the server behavior. Eventually,
+this should eliminate the need for end users to have the complete
+collection of server names; at this point, though, distributing the
+server list to individual Internet users is still worthwhile.
+
+The procedure for accessing the whois servers will vary depending on
+your host's operating system, and on what software is installed. On
+UNIX systems, the preferred method is
+
+    whois -h _server_name_ _name_of_person_
+
+If there is n
+o whois program, sometimes it will work to type
+
+    telnet _server_name_ 43
+
+and then type the "name of person" on a separate line. (The usefulness
+of this will vary depending on the details of the telnet client
+implementation installed on your system.)
+
+Alternatively, you may be able to compile a whois program yourself,
+starting from source code available at various anonymous FTP sites. As
+a start, you might try searching archie for files named 'whois.tar.Z'.
+
+Programs named 'whois' and 'telnet' may also be available on VMS
+systems. Typing 'HELP WHOIS' or 'HELP TELNET' at the DCL prompt may be
+useful.
+
+Whois programs may also be installed on other operating systems, or
+may be available for these systems via anonymous FTP. Searching archie
+for file names matching 'whois' (case insensitive) might be worthwhile.
+
+Also, system administrators interested in starting new whois servers
+will probably be able to find one or more separate source-code
+packages on anonymous FTP sites. In addition to checking archie, you
+may wish to look in the file whois-servers.source, available at the
+anonymous-FTP location listed at the top of this file.
+
+
+Other Formats of This List
+--------------------------
+Whenever this whois-servers.list file is updated, it is automatically
+converted to a few other formats. One that might be of common interest
+is a "Summary" version that contains just the server names and
+locations, one per line, and a few comment lines that each begin with
+';'. This version can be obtained via
+
+    whois -h sipb.mit.edu whois-servers
+
+or from a few replication sites that can be found by doing
+
+    whois -h sipb.mit.edu whois-list-servers
+
+It's intended mainly for people who have a program to copy the server
+list occasionally (e.g., once a week) for local redistribution. If
+you're able to redistribute via whois (i.e., by supporting the query
+whois -h _your_server_name_ whois-servers), please let me know and
+I'll add you to the list of replication sites.
+
+
+Gopher Access
+-------------
+The data in this list are also ava
+ilable via the Internet Gopher
+system. Gopher clients should connect to the host sipb.mit.edu, port
+70, and choose the selection "Internet whois servers". The
+whois-server entries accessible in the sipb.mit.edu Gopher server are
+automatically updated whenever this file is changed.
+
+Alternatively, one can access this same Gopher menu by connecting to a
+root Gopher server at the University of Minnesota and selecting
+"Phone Books" then "WHOIS Searches".
+
+
+AFS Access
+----------
+Sites using Transarc's AFS (Andrew File System) software can access
+the whois-servers.list file using the AFS global name space pathname
+
+    /afs/sipb.mit.edu/project/gopher-links/whois-servers.list
+
+(i.e., it is in the directory project/gopher-links relative to
+root.cell for the sipb.mit.edu cell.)
+
+
+Access Restrictions
+-------------------
+In general, these servers should only be used for isolated queries
+about specific individuals of interest. Typically, it is not
+acceptable to make an extended series of queries in an attempt to
+obtain 
+large sections, or the entirety, of the directory. Such a
+strategy is objectionable both because of excessive consumption of
+server resources, and because the directory itself is usually
+considered proprietary. In particular, deriving lists of persons for
+distribution of commercial advertisements or solicitations is
+expressly prohibited by site policies in many cases, and could easily
+cause sites to curtail the current open access to their whois servers.
+
+
+Server problems
+---------------
+Not all of the whois-server entries constitute a "supported" service
+within their respective domains.  Even at sites where the service is
+supported, there may be occasional changes in the server host name.
+Also, at any given time, you will probably find one or more of the
+servers not operational, or apparently unusable. I have not
+purposefully included any servers that I believe have been permanently
+shut down. In all cases, either I have personally seen the server
+provide useful information within the last few months, or els
+e the
+maintainers of the server have asked me to include it anyway, while
+they work on resolving usage problems.
+
+
+Collection
+----------
+The list was collected primarily via an active resource-discovery
+approach involving polling selected Internet hosts for possible
+support of tcp/whois service. This was done with some attention to
+minimizing consumption of resources on other Internet hosts and
+networks. In particular, no DNS zone transfers were used to generate
+lists of polling candidates. Instead, a small number of host names in
+most second-level domains were selected, using various heuristics, and
+whois queries were attempted to each of these. All queries originated
+from hosts in the MIT.EDU domain. Also, I've been maintaining versions
+of this list since August 1990, and since then a number of persons
+have mailed me reports of new whois servers, or updates on the servers
+already listed here.

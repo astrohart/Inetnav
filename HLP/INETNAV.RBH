@@ -1,0 +1,33 @@
+[Project]
+Help Compiler=HCP
+Remove Unused=0
+HasGlossary=0
+Automatic Map Files=0
+Version=512
+ConvertedFromV1=1
+Extra Language=0
+QuickViewWindow=main
+
+[File Properties]
+HasProperties=1
+BrowseType=1
+AutoMapFile=1
+StartingWith=0
+IncrementBy=0
+NextTopicNumber=0
+AutoFixRTF=1
+StartingNumber=0
+BrowseString=INETNAV:0
+DefaultBuildTag=
+
+[.RBH]
+AutoFixRTF=0
+CopyTo=0
+PreBatch=
+PostBatch=
+TMPDir=
+953PROJ=1
+CurrentDir=
+
+[VERSION]
+RHFile=4.1

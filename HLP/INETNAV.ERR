@@ -1,0 +1,31 @@
+Microsoft (R) Help Compiler Version 3.10.505 (extended)
+Copyright (c) Microsoft Corp 1990 - 1992. All rights reserved.
+INETNAV.hpj
+
+Error 1230: line...206 of INETNAV.hpj : File 'C:\MSVC\MFC\INCLUDE\AFXHELP.HM' not found.
+Warning 4652: topic...2 of INETNAV.RTF : Table formatting too complex.
+Warning 4652: topic...3 of INETNAV.RTF : Table formatting too complex.
+Warning 4652: topic...4 of INETNAV.RTF : Table formatting too complex.
+Warning 4652: topic...5 of INETNAV.RTF : Table formatting too complex.
+Warning 4652: topic...6 of INETNAV.RTF : Table formatting too complex.
+Warning 4652: topic...7 of INETNAV.RTF : Table formatting too complex.
+Warning 4652: topic...8 of INETNAV.RTF : Table formatting too complex.
+Warning 4652: topic...9 of INETNAV.RTF : Table formatting too complex.
+Warning 4813: topic...1 of DIALOGS.RTF : Non-scrolling region crosses page boundary.
+Warning 4813: topic...1 of PROMPTS.RTF : Non-scrolling region crosses page boundary.
+Warning 4813: topic...1 of COMMANDS.RTF : Non-scrolling region crosses page boundary.
+Warning 4813: topic...34 of COMMANDS.RTF : Non-scrolling region crosses page boundary.
+Warning 4792: topic...34 of COMMANDS.RTF : Non-scrolling region defined after scrolling region.
+Warning 4113: topic...15 of COMMANDS.RTF : Unresolved jump or popup 'HIDR_MAINMENUTYPE'.
+Warning 4113: topic...15 of COMMANDS.RTF : Unresolved jump or popup 'DEF_MAILBOX'.
+Warning 4113: topic...55 of COMMANDS.RTF : Unresolved jump or popup 'HID_LOOKUP'.
+Warning 4113: topic...15 of COMMANDS.RTF : Unresolved jump or popup 'HIDR_HELPINFOTYPE'.
+Warning 4113: topic...36 of COMMANDS.RTF : Unresolved jump or popup 'HIDD_TASK_LIST'.
+Warning 4113: FINGAREA.SHG : Unresolved jump or popup 'HIDC_FINGER_LOOKUP_CANCEL'.
+Warning 4113: topic...15 of COMMANDS.RTF : Unresolved jump or popup 'HIDR_ELECTRONIC_MAIL'.
+Warning 4113: FINGAREA.SHG : Unresolved jump or popup 'HIDC_FINGER_LOOKUP'.
+Warning 4113: FINGAREA.SHG : Unresolved jump or popup 'HIDC_FINGER_CLEAR'.
+Warning 4113: topic...5 of INETNAV.RTF : Unresolved jump or popup 'HID_FILE_NEW'.
+Warning 4113: topic...15 of COMMANDS.RTF : Unresolved jump or popup 'HIDR_FTPTYPE'.
+Warning 4113: topic...15 of COMMANDS.RTF : Unresolved jump or popup 'HIDR_PREFSTYPE'.
+Warning 4098: Context string(s) in [MAP] section not defined in any topic.
